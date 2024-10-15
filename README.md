@@ -9,12 +9,18 @@
 <h5 align=center> 나이: 21세 (만 20세)</h5>
 <h5 align=center> 학교 & 전공: 영남대학교 역사학과, 소프트웨어융합전공(복수전공)</h5>
 <h5 align=center> 소프트웨어융합 전공을 선택하게된 이유: 역사 전공으로 대학에 입학했으나, 코딩에 관심을 갖게 되어 복수전공을 선택했고, 현재는 소프트웨어융합전공으로 전과를 준비 중입니다.</h5>
-
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/jjii._.65?igsh=ZW5zeGdjcnl5b2R1&utm_source=qr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <h3 align="center"> 📊 Github Stats 📊 </h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihyeon65&theme=buefy&show_icons=true"/></a>
 </p>
+<h3 align="center"> 📚 Study 📚 </h3>
 <div align=center>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<img src ="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
     <br>
 </div>
