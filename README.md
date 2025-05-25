@@ -1,5 +1,5 @@
 ![GitHub profile](https://github.com/user-attachments/assets/7ce44cec-eab7-430b-aabc-51b7e5bc0b79)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyeon65%2Fjihyeon65&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+
 -------------------------
 <h3 align="center"> ✦ My Profile ✦ </h3>
 <div align=center>
@@ -15,7 +15,7 @@
 </p>
 <h3 align="center"> 📚 Study 📚 </h3>
 <div align=center>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src ="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
     <br>
 </div>
